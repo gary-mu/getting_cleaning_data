@@ -1,3 +1,5 @@
+Below is the step by step code to get the tidied data:
+
 require(reshape2)
 ##Read in test data set
 a1=read.table("./UCI HAR Dataset/test/X_test.txt")
